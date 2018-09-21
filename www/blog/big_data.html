@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <title>Big Data and Personal Data Collection</title>
+</head>
+<!-- Navbar -->
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="../index.html">Joshua Irwin</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../resume.html">Resume</a></li>
+            <li><a href="../projects.html">Projects</a></li>
+            <li><a href="#">Page 3</a></li>
+        </ul>
+
+        <!-- Creates blog section for English 202D
+        TODO: Remove once assignment is graded(?)
+        -->
+        <div class = "pull-right nav navbar-nav max-content">
+            <li class="dropdown">
+                <a class="dropdown" data-toggle="dropdown" href = "home.html">Blog<span class="caret"></span></a>
+                <!-- no-li-border has no definition in styles.css, however is used to remove the red border that
+                     is seen on left side of NavBar -->
+                <ul class = "dropdown-menu dropdown-menu-right">
+                    <li class="blog-li no-li-border"><a href="iops_blog.html">Is Our Privacy Safe In a Hyper-connected World?</a></li>
+                    <li class="no-li-border active"><a href = "big_data.html">Big Data and Personal Data Collection</a></li>
+                    <li class="no-li-border"><a href ="iot_ddos.html">Why Password Security On Your Devices Is Essential</a></li>
+                </ul>
+        </div>
+    </div>
+</nav>
+
+<body class="blog">
+<div class="container container-blog">
+    <img class="title-image" src="resources/images/big_data_image.jpg">
+    <div class="blog-title">
+        <h2>
+            Big Data and Personal Data Collection
+        </h2>
+    </div>
+    <hr>
+    <div class="blog-content">
+        <p>
+            With the increase in the ability to collect, as well as store data, Big Data has become increasingly used
+            in all aspects of our lives. Big Data is a term that has been around since the 1990's and is credited to
+            <a href ="https://en.wikipedia.org/wiki/John_Mashey">John Mashey</a>, a computer scientist from The
+            Pennsylvania State University. Big Data has many definitions and depending on how many people you ask, you
+            may get a different definition from each person. In this short article Big Data will refer specifically to
+            the amount of data that is being collected and analyzed by companies and corporations.
+            <br><br>
+
+            Companies have been expanding their usage of Big Data to not only gain information about their business and
+            predict market trends, but also to gain information about their customers and build custom profiles on each
+            one to target ads to each customer as well as sell these ‘data profiles’ to other corporations. The debate
+            as to whether customers are ok with this new form of targeted ads has been debated before, but this article
+            isn't meant to debate that topic, instead it’s about the amount of personal data that is collected by
+            businesses and whether there should be more regulations on security with this data.
+        </p>
+            <br><br>
+
+
+            <p style="float: left;"> <img src="resources/images/data_breach_perceptions.jpg" height="1000">
+            <i class="credit">Credit: <a href = "https://www.securelink.com/securelink-blog/retailers-are-your-vendors-leaving-you-vulnerable/">SecureLink</a></i>
+
+        <p>
+            In the last couple of years there have been multiple high-profile data breaches where personal info that was
+            gathered by a company was kept improperly and became vulnerable. Most notably has been the credit card hacks
+            that took place at <a href="https://www.engadget.com/2017/04/28/home-depot-left-customers-unprotected-personal-data-online/">Home Depot</a>
+            and <a href="https://www.lifelock.com/education/chipotle-data-breach-what-you-need-to-know/">Chipotle</a>.
+            Both of which pale in comparision to the <a href="http://money.cnn.com/2017/09/16/technology/equifax-breach-security-hole/index.html">Equifax</a>
+            breach which happened just this September.
+
+            Like all other major companies out there, Equifax gathered data on its customers and stored it for their own
+            uses. However, unlike other companies, Equifax is a credit reporting agency, which was one of the go to
+            agencies when lenders ran credit reports. This means that even if you haven't dealt with Equifax directly,
+            they probably still have data about you (including personal information, banking information, and even a
+            social security number). However even with all this personal data being stored, one would think that there
+            would have to be stringent security measures in place to ensure a breach won't happen. Unfortunately, this
+            was not the case and even after <a href="https://www.wired.com/story/equifax-warned-of-vulnerability-months-before-breach/">being
+            warned months in advanced that there was a security vulnerability</a>, Equifax still choose to ignore it.
+            This breach lead to 143 million Americans being put at risk for identity theft, and unfortunately there's no
+            true way to know if you're information was compromised until it shows up being used somewhere else.
+            <br><br>
+
+            Unfortunately, in this age of Big Data companies have found a new product, the customer, and have realized
+            there is a profit in collecting personal data and then selling it others. And while many may not know that
+            this data is constantly being sold or have decided it’s not a big deal to them, there should at least be
+            guarantees that personal data that is collected should be kept under rigorous security standards and
+            possibly even government intervention, so that the consumer doesn't have to be concerned about their
+            information falling into the wrong hands due to carelessness.
+            <br><br>
+    </p></p>
+
+
+        <p>
+            While at the moment there is no guarantee that the personal data gathered by companies is kept
+            securely, there are steps that you can take as a consumer to make sure that you are limiting your
+            risks. The poster below from the University of Alabama at Birmingham lists 5 easy tips that can be used
+            to protect yourself from retail data breaches.
+        </p>
+        <br>
+
+
+            <img src="resources/images/protect_from_data_breaches.jpg" height="700" >
+            <i class="credit">Credit: <a href="https://www.newswise.com/articles/five-ways-to-protect-yourself-from-retail-and-restaurant-data-breaches">UAB</a></i>
+    </div>
+    <br><br>
+
+    <h3>Leave a Comment</h3>
+    <hr>
+    <textarea rows ="10" cols="50">
+        Leave your comments here
+        (Work in progress, need database integration)
+    </textarea>
+    <br>
+    <button class="btn btn-primary">Submit</button>
+</div>
+
+<div class="footer">
+    <footer>
+        <p>Website Version: 0.1</p>
+        <p>Updated On: 11/9/2017</p>
+        <a href="contact">Contact Info</a>
+    </footer>
+</div>
+
+</body>
+
+</html>

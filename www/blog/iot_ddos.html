@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <title>Why Password Security On Your Devices Is Essential</title>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="../index.html">Joshua Irwin</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="../resume.html">Resume</a></li>
+            <li><a href="../projects.html">Projects</a></li>
+            <li><a href="#">Page 3</a></li>
+        </ul>
+
+        <!-- Creates blog section for English 202D
+        TODO: Remove once assignment is graded(?)
+        -->
+        <div class = "pull-right nav navbar-nav max-content">
+            <li class="dropdown">
+                <a class="dropdown" data-toggle="dropdown" href = "home.html">Blog<span class="caret"></span></a>
+                <!-- no-li-border has no definition in styles.css, however is used to remove the red border that
+                     is seen on left side of NavBar -->
+                <ul class = "dropdown-menu dropdown-menu-right">
+                    <li class="blog-li no-li-border"><a href="iops_blog.html">Is Our Privacy Safe In a Hyper-connected World?</a></li>
+                    <li class="no-li-border"><a href = "big_data.html">Big Data and Personal Data Collection</a></li>
+                    <li class="no-li-border active"><a href ="iot_ddos.html.erb">Why Password Security On Your Devices Is Essential</a></li>
+                </ul>
+        </div>
+    </div>
+</nav>
+<body class="blog">
+<div class="container container-blog">
+    <img class="title-image" src="resources/images/ddos.png">
+    <div class="blog-title">
+        <h2>
+            Why Password Security On Your Devices Is Essential
+        </h2>
+    </div>
+    <hr>
+    <div class="blog-content">
+        <p>
+            <strong>The Growth of DDoS Attacks</strong>
+            <p>
+            Due to the increasing number of devices that are part of the Internet of Things (IoT), the likelihood of
+            Distributed Denial-of-Service (DDoS) attacks has grown. This issue isn’t solely due to the fact that there
+            are more devices, but due to the factthat proper password security isn’t considered a high priority by many users.
+            <br><br>
+
+            A DDoS attack typically occurs when a network becomes unavailable to its users due to an
+            overwhelming number of requests being made to the network. The reasons as to why DDoS attacks are perpetrated
+            vary, but for the most part the end goal is usually the same where the perpetrator will use a 'bot-net' of
+            infected machines to make the large number of requests to take down a network.
+
+        </p>
+
+            <p style="float: left"> <img src ="resources/images/ddos-terabit-deloitte.png">
+            <i class="credit">credit: <a href="http://www.blueapache.com/deloitte-tmt-predictions-for-2017/">Deloitte</a></i>
+            <br>
+
+        <p>
+        <strong>Recent Attacks</strong>
+        <p>
+        Since the purpose of IoT devices is to remain connected to the internet, they are prime targets to be infected
+        with malicious software to become part of a bot-net to be used in a DDoS attack. In fact, on October 21, 2016
+        there was a DDoS attack that disrupted a large amount of internet traffic in US. This attack targeted the Domain
+        Name Systems(DNS) which is the system that handles all information requests on the internet. By targeting this
+        system, many websites faced difficulty in handling legitimate requests from users, or went down entirely.
+        <br><br>
+
+        <strong>The Risk of Defaults</strong>
+        <p>
+        One of the main factors that allowed this DDoS attack to take places was the fact that there were many connected
+        devices that were unsecured. In this case, unsecured doesn’t just mean not having a password set, but also just
+        leaving the default password as protection. In the table below, a study was preformed looking at the top passwords
+        used by malware to gain access to connected systems and surprisingly, most of them were just the system defaults.
+        Password security on these connected devices should be a high priority for all users, from the home user to
+        corporation IT, as these default passwords can be found in all systems such as a home router or any device that
+        is connected to a network.
+        <br><br>
+
+        <!-- Table of most common user names and passwords -->
+        <table style="width: 26%; float: right; padding-right:10px" class="table table-striped table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Top User Names</th>
+                <th>Top Passwords</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>root</td>
+                <td>admin</td>
+            </tr>
+            <tr>
+                <td>admin</td>
+                <td>root</td>
+            </tr>
+            <tr>
+                <td>DUP root</td>
+                <td>123456</td>
+            </tr>
+            <tr>
+                <td>access</td>
+                <td>ubnt</td>
+            </tr>
+            <tr>
+                <td>DUP admin</td>
+                <td>password</td>
+            </tr>
+            <tr>
+                <td>test</td>
+                <td>1234</td>
+            </tr>
+            <tr>
+                <td>oracle</td>
+                <td>test</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2"><i class="credit">credit: <a href ="https://www.symantec.com/connect/blogs/iot-devices-being-increasingly-used-ddos-attacks">Symantec</a></i></td>
+            </tr>
+        </tfoot>
+
+        </table>
+        <br>
+
+        <p>
+            When these IoT devices are shipped, they usually are set up with a default user name and password (i.e root , admin), these passwords are well known
+            and can easily be found online as well for different devices. If users aren't security conscious they may leave these default passwords set for as
+            long as they own the device. In these cases its easier for hackers to gain access to these devices without the owner actually knowing. When these devices
+            are bought by consumers they should automatically have to change thee system passwords so that the defaults are never used. After knowing that there are
+            risks associated with these devices, consumers (both personal and business) should be urged to remain security conscious and make sure their devices remain
+            secure.
+        </p>
+
+        <br><br>
+        <p>
+            <strong>Protecting Your Devices</strong>
+            <p>
+            While manufactures should be working on creating more secure connected devices, the responsibility of security
+            also falls onto the user. Listed in the table above are the top passwords that are used by IoT malware to
+            try to gain access to devices. These passwords are, for the most part, defaults that were left on the
+            devices and unfortunately, on many of these devices these passwords are never changed. Listed
+            <a href = "http://www.connectsafely.org/tips-to-create-and-manage-strong-passwords/">here</a> are some
+            common tips and advice to make secure passwords and through that, secure devices.
+        </p>
+
+        <br><br><br>
+
+        <br><br>
+        Sources:
+        <br>
+        &emsp;<a href="https://www.welivesecurity.com/2016/10/24/10-things-know-october-21-iot-ddos-attacks/">10 things to know about the October 21 IoT DDoS attacks</a>
+        <br>
+        &emsp;<a href="https://www.symantec.com/connect/blogs/iot-devices-being-increasingly-used-ddos-attacks">IoT devices being increasingly used for DDoS attacks</a>
+        </p>
+    </div>
+    <br><br>
+
+    <h3>Leave a Comment</h3>
+    <hr>
+    <textarea rows ="10" cols="50">
+        Leave your comments here
+        (Work in progress, need database integration)
+    </textarea>
+    <br>
+    <button class="btn btn-primary">Submit</button>
+</div>
+
+<div class="footer">
+    <footer>
+        <p>Website Version: 0.1</p>
+        <p>Updated On: 11/9/2017</p>
+        <a>Contact Info</a>
+    </footer>
+</div>
+</body>
+</body>
+</html>

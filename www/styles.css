@@ -1,0 +1,166 @@
+/*
+=====================================
+            Blog Styling
+=====================================
+ */
+
+.blog {
+    background-image: url(blog/resources/images/blog_bg.jpg);
+    background-size: cover;
+    background-color: white;
+}
+
+.blog-post{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+}
+
+.blog-post p{
+    text-align: center;
+}
+
+.blog-post img{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.container-blog{
+    /*background: linear-gradient(to bottom right, #ff0066, #66ccff);*/
+    /*background-image: url(blog/resources/images/poly.jpg);*/
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 3em;
+}
+
+.container-blog button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.blog-li{
+    display:inline-block;
+}
+
+.title-image{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 75em;
+    height: 35em;
+}
+
+.blog-content{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    padding: .75em;
+}
+.blog-content img{
+    display: block;
+    margin: auto;
+}
+
+.blog-content p{
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.blog-title{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: .75em;
+    margin-bottom: .75em;
+}
+.blog-title h2{
+    font-size: 45px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.credit{
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+/*
+=====================================
+         Universal Styling
+=====================================
+ */
+
+.footer{
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.footer-no-border{
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: white;
+    margin-top: 20px;
+}
+
+/*
+=====================================
+         Table Styling
+=====================================
+ */
+
+table{
+    margin: auto;
+}
+
+thead tr{
+    background-color: #def0fc;
+}
+table, th, td{
+    border: 1px solid black;
+}
+/*
+=====================================
+         NavBar Styling
+=====================================
+ */
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    width: auto;
+}
+
+.navbar{
+    position: relative;
+}
+
+/*.navbar-nav li:not(:last-child):not(.blog-li):not(.no-li-border){*/
+    /*border-right: 4px solid silver;*/
+/*}*/
+
+.navbar-nav li:hover{
+    background-color: #595959;
+}
