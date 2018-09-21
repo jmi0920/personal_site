@@ -156,7 +156,7 @@ table, th, td{
 .navbar{
     position: relative;
 }
-
+/*Adds silver vertical bar between navbar buttons*/
 /*.navbar-nav li:not(:last-child):not(.blog-li):not(.no-li-border){*/
     /*border-right: 4px solid silver;*/
 /*}*/

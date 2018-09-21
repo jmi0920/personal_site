@@ -18,26 +18,31 @@
 
 </head>
 <body>
-<!-- TODO Update Navbar -->
+
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="/jpi5033">Joshua Irwin</a>
+            <a class="navbar-brand" href="index.html">Joshua Irwin</a>
         </div>
         <ul class="nav navbar-nav">
-            <li><a href="/jpi5033">Home</a></li>
-            <li><a href="/jpi5033/resume.html">Resume</a></li>
-            <li class="active"><a href="/jpi5033/projects.html">Projects</a></li>
-            <li><a href="#">Page 3</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="resume.html">Resume</a></li>
+            <li class="active"><a href="projects.html">Projects</a></li>
         </ul>
+
+        <div class = "pull-right nav navbar-nav max-content">
+            <li><a href="art_101.html">Art 101</a> </li>
+            <li class="dropdown">
+                <a class="dropdown" href="blog/home.html">English 202 Blog<span class="caret"></span></a>
+                <ul class = "dropdown-menu dropdown-menu-right">
+                    <li class="blog-li"><a href="blog/iops_blog.html">Is Our Privacy Safe In a Hyper-connected World?</a></li>
+                    <li class="no-li-border"><a href = "blog/big_data.html">Big Data and Personal Data Collection</a></li>
+                    <li class="no-li-border"><a href ="blog/iot_ddos.html">Why IoT Security Is Essential</a></li>
+                </ul>
+        </div>
     </div>
 </nav>
-<!--
-   Projects:
-        OPORD
-        Bias
-        D2P2
--->
+
 <div class = "container">
     <div>
         <h1>
@@ -45,19 +50,18 @@
         </h1>
         <div>
             <h3><u>Predicting Bias in Machine Learned Classifiers Using Clustering</u></h3>
-            <div>
+            <p>
                 As part of my internship at The United States Military Academy, I had the opportunity to work along
                 side professors and cadets to work on different projects. One of those projects included investigating
                 bias in machine learned classifiers and finding methods that would identify these biases in datasets
                 prior to classifier training. While this was exploratory research, we found that by using K-means clustering
                 we could find potential sources of bias and then mitigate through manipulation of the dataset.
-                <br>
+            </p>
                 <p><a class="btn btn-primary" href="projects/USMA/bias_in_data/paper.html" role="button">Link to Paper&raquo;</a></p>
-            </div>
+        </div>
             <div>
                 <h3><u>D2P2</u></h3>
-                <br>
-                <div>
+                <p>
                     Declarative to Procedural 2 is a Ruby on Rails implementation of a previous Java architecture. The main
                     purpose of D2P2 is to be an online tutoring system that is used to test various theories on learning.
                     Throughout this project I've worked on multiple technologies such as Ruby on Rails, JavaScript, SQL, and Unity.
@@ -67,35 +71,51 @@
                     (allowing users to set background images on tutors and setting logo images), and integrating Unity projects into
                     the framework, allowing communication between the two platforms.
                     <!-- TODO: Is there any code I can put here? Barebones matching game? -->
-                </div>
+                </p>
             </div>
         </div>
         <div>
             <H3><u>OPORD Generator</u></H3>
-            <div>
+            <p>
                 Another project I had the opportunity to work on at USMA was a Python program utilizing Natural Language
                 Processing which was designed to take a document and break down its structure. The program would then
                 generate a Microsoft Word document that would fill in the details of the document based on keywords that the user
                 input.
-                <p><a class="btn btn-primary" href="https://github.com/jmi0920/NP_arduino_project" role="button">View on Github&raquo;</a></p>
-            </div>
+                <!-- TODO: Can I host project? -->
+                <!--<p><a class="btn btn-primary" href="https://github.com/jmi0920/NP_arduino_project" role="button">View on Github&raquo;</a></p>-->
+            </p>
         </div>
         <div>
             <h3><u>NP Reflow Oven</u></h3>
             <img src="projects/reflow_oven/pictures/final_product.jpg" alt="Final Product" style="width: 200px; height: 200px;">
-            <img src="projects/reflow_oven/pictures/final_prodcut(open).jpg" style="width: 200px; height: 200px;">
-            <br>
-            <div>
+            <img src="projects/reflow_oven/pictures/final_product(open).jpg" style="width: 200px; height: 200px;">
+            <img src =projects/reflow_oven/pictures/frizting_mask.png style="width: 200px; height: 200px;">
+            <br><br>
+            <p>
                 The NP (North Penn) Reflow Oven was a graduation project I completed during my senior year of high school.
                 It was done in part to offer future classes the ability to work with Surface Mount Devices (SMDs) as previously
                 the classes only worked with through hole components. The idea was to simple take an off the shelf toaster oven
                 and then plug it into a device that will monitor the internal temperature of the oven and have it follow
                 specific heating profiles so that SMDs could be properly soldered. The main work of this project involved
                 coding in Arduino C, but also gave exposed to PCB fabrication and circuit design.
+            </p>
                 <p><a class="btn btn-primary" href="https://github.com/jmi0920/NP_arduino_project" role="button">View on Github&raquo;</a></p>
-            </div>
+        </div>
+
+        <div>
+            <h3><u>IST 446 Game Development</u></h3>
+            <p>
+                During the spring of 2017 I was enrolled in a game design class at The Pennsylvania State University.
+                Throughout the course we learned different concepts in game development and I focused mainly in using
+                Unity for development. Two main projects came from this course, the first being a simple top-down 2D
+                racing game to be exposed to Unity and C# programming. The second project 'Operation Polygon' is a more
+                fleshed out top-down shooter game.
+            </p>
         </div>
     </div>
+
+
+
 </div>
 <div class="footer-no-border">
     <footer style="display: inline; margin: auto;">

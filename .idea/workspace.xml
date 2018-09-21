@@ -1,7 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b60f814-36d4-417c-b844-c0adb951b518" name="Default Changelist" comment="" />
+    <list default="true" id="5b60f814-36d4-417c-b844-c0adb951b518" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/Release/446_Game_Dev.asm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/Release/446_Game_Dev.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/Release/446_Game_Dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/Release/446_Game_Dev.mem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/Release/UnityLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/Logo.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/Logo.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/ProgressBar.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/ProgressBar.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/ProgressFrame.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/ProgressFrame.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/UnityProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/446_Game_Dev/TemplateData/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Release/446_Game_Dev.asm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Release/446_Game_Dev.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Release/446_Game_Dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Release/446_Game_Dev.mem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Release/UnityLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/big_data.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/blog/big_data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/iops_blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/blog/iops_blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blog/iot_ddos.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/blog/iot_ddos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/Release/446_Game.asm.jsgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/Release/446_Game.datagz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/Release/446_Game.jsgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/Release/446_Game.memgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/Release/UnityLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/Logo.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/Logo.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/ProgressBar.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/ProgressBar.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/ProgressFrame.Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/ProgressFrame.Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/UnityProgress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/fullscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/TemplateData/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/blogs/446_Game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures-20180910T202028Z-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/04-04-14_InitalTempTest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/Copy of IMG_20140502_105127_445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140410_135539_552.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140410_135554_200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_080155_521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_081246_726.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_081259_737.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_081308_072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_081659_223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_081747_930.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140414_083115_718.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140416_140954_507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140416_141008_493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140416_141044_930.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140423_144103_003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_081339_934.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105127_445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105134_331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105140_035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105144_959.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105148_921.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105159_101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140502_105221_329.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140604_103300_486.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140606_170620_295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140606_183825_436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140606_234832_645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140606_234842_354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/Pictures/IMG_20140607_151506_205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/final_prodcut(open).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/www/projects/reflow_oven/pictures/final_product(open).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/sites/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,22 +103,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="css" value="1" />
+          <entry key="html" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="134" />
+          <entry key="css" value="55" />
+          <entry key="html" value="1054" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="134" />
+          <entry key="CSS" value="55" />
+          <entry key="HTML" value="1054" />
         </counts>
       </usages-collector>
     </session>
@@ -46,28 +132,107 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="71" column="105" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="105" />
+            <state relative-caret-position="1035">
+              <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/projects.html">
+        <entry file="file://$PROJECT_DIR$/www/blog/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+            <state relative-caret-position="437">
+              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/blog/iops_blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/blog/iot_ddos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/blog/big_data.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="158" column="49" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/www/sites</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/www/styles.css" />
+        <option value="$PROJECT_DIR$/www/resume.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/projects.html" />
+        <option value="$PROJECT_DIR$/www/blog/big_data.html" />
+        <option value="$PROJECT_DIR$/www/blog/iot_ddos.html" />
+        <option value="$PROJECT_DIR$/www/blog/iops_blog.html" />
+        <option value="$PROJECT_DIR$/www/blog/home.html" />
       </list>
     </option>
   </component>
@@ -78,10 +243,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="778" />
-    <option name="width" value="1022" />
-    <option name="height" value="726" />
+    <option name="width" value="956" />
+    <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -100,6 +265,12 @@
               <item name="personal_site" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="personal_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal_site" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,6 +282,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/projects/reflow_oven/pictures" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,22 +310,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537543689524</updated>
-      <workItem from="1537543692595" duration="1079000" />
+      <workItem from="1537543692595" duration="3219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1079000" />
+    <option name="totallyTimeSpent" value="3219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24565102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -171,17 +347,81 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="158" column="49" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/sites/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="71" column="105" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="105" />
+        <state relative-caret-position="1035">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/blogs/446_Game/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        <state relative-caret-position="207">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/blog/big_data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/blog/iot_ddos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/blog/iops_blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/blog/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
         </state>
       </provider>
     </entry>
